@@ -43,6 +43,11 @@ p {
   background-color: white;
 }
 
+.perfume-title {
+  color: #6c7289;
+  font-size: 12px;
+}
+
 .perfume-picture {
   object-fit: cover;
   border-radius: 10px 10px 0 0;
