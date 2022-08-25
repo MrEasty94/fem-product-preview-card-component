@@ -61,7 +61,7 @@ p {
 
 .perfume-name {
   margin-block-end: 1rem;
-  font-family: var(--secondary-font);
+  font-family: var(--primary-font);
   font-size: 1.75rem;
   font-weight: 700;
 }
