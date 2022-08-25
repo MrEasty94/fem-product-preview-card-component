@@ -62,7 +62,8 @@ p {
 .perfume-name {
   margin-block-end: 1rem;
   font-family: var(--primary-font);
-  font-size: 1.75rem;
+  font-size: 2rem;
+  line-height: 2rem;
   font-weight: 700;
 }
 
@@ -151,6 +152,7 @@ p {
   .perfume-content {
     width: 50%;
     max-height: 450px;
+    padding: 2rem;
   }
 
   .perfume-title {
@@ -167,5 +169,9 @@ p {
 
   .price-info {
     margin-block-end: 1.875rem;
+  }
+
+  .add-to-cart {
+    height: 50px;
   }
 }
